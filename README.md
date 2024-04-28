@@ -32,7 +32,7 @@ Adam optimizer was used with a learning rate of $0.0001$ and a weight decay comp
 Below is a plot of the training and validation loss.
 
 <p align="center">
-  <img src="_readme-img/3-plots_loss.png?raw=true" width=300 alt="Loss plot">
+  <img src="_readme-img/3-plots_loss.png?raw=true" width=600 alt="Loss plot">
 </p>
 
 To evaluate network performance, metrics such as **precision**, **recall**, and **F1-score** were used. Precision provided information on the proportion of correctly classified images within the assigned category, while recall measured the model's ability to identify all images belonging to a particular class. The F1 score, a harmonic mean of precision and recall, served as an indicator of balanced classification accuracy assessment.
