@@ -1,0 +1,10 @@
+__pycache__/
+.vscode
+venv/
+
+models/*
+!models/model_demo.pth
+dataset/*
+!dataset/placeholder
+
+Arch/
